@@ -3,7 +3,7 @@ import toast from "react-hot-toast";
 
 import DashboardLayout from "../../components/Layouts/DashboardLayout";
 import ExpenseOverview from "../../components/Expense/ExpenseOverview";
-import Modal from "../../components/Common/Modal";
+import Modal from "../../components/common/Modal";
 import AddExpenseForm from "../../components/Expense/AddExpenseForm";
 import ExpenseList from "../../components/Expense/ExpenseList";
 import DeleteAlert from "../../components/Common/DeleteAlert";
