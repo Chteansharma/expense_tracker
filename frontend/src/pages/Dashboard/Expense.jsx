@@ -6,7 +6,7 @@ import ExpenseOverview from "../../components/Expense/ExpenseOverview";
 import Modal from "../../components/common/Modal";
 import AddExpenseForm from "../../components/Expense/AddExpenseForm";
 import ExpenseList from "../../components/Expense/ExpenseList";
-import DeleteAlert from "../../components/Common/DeleteAlert";
+import DeleteAlert from "../../components/common/DeleteAlert";
 
 import { useUserAuth } from "../../hooks/useUserAuth";
 
