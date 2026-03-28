@@ -3,10 +3,10 @@ import toast from "react-hot-toast";
 
 import DashboardLayout from "../../components/Layouts/DashboardLayout";
 import IncomeOverview from "../../components/Income/IncomeOverview";
-import Modal from "../../components/Common/Modal";
+import Modal from "../../components/common/Modal";
 import AddIncomeForm from "../../components/Income/AddIncomeForm";
 import IncomeList from "../../components/Income/IncomeList";
-import DeleteAlert from "../../components/Common/DeleteAlert";
+import DeleteAlert from "../../components/common/DeleteAlert";
 
 import axiosInstance from "../../utils/axiosInstance";
 import { API_PATHS } from "../../utils/apiPaths";
