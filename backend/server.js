@@ -13,7 +13,7 @@ const app = express();
 
 app.use(
   cors({
-    origin: https://expense-tracker-gamma-lac.vercel.app,
+    origin: "https://expense-tracker-gamma-lac.vercel.app",
     credentials: true,
     methods: ["GET", "POST", "PUT", "DELETE"],
     allowedHeaders: ["Content-Type", "Authorization"],
